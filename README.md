@@ -1,2 +1,5 @@
 # Deepfake-Detection-using-DL
-Detection of Deepfakes in videos using Deep Learning
+
+Deepfake videos were studied and analysed using this methodology and it also produces a good level of accuracy. The frames of the video were extracted and pre-processing was done. Subsequently, Image Classification was done and the images were labelled. With the help of Machine Learning algorithms, predictions were made on the dataset. Thus, any video can be analysed using this methodology. It helps in detecting fake faces in a video which may have been manipulated, hence can prevent individuals from being defamed unknowingly. 
+
+Further, different combinations of hyperparameters with respect to Neural Networks can be used and hyperparameter tuning can be done for the purpose of studying Deepfakes and the outputs of those algorithm models can be analysed and compared, so that Deepfakes can be combated in the most efficient way, as it is one of the major threats looming large over the authenticity of videos. Modern technologies like Blockchain can be used for immutable storage in order to preserve the originality of videos
